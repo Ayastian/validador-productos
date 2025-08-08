@@ -9,8 +9,8 @@ Esta aplicación permite comparar productos entre una fuente **Líder** y su ver
 ### 1. Clona este repositorio
 
 ```bash
-git clone https://github.com/tu_usuario/nombre-repo.git
-cd nombre-repo
+git clone https://github.com/Ayastian/validador-productos.git
+cd validador-productos
 ```
 
 ### 2. Crea y activa un entorno virtual
